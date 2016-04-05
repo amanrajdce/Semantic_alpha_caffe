@@ -1,14 +1,14 @@
-##Pixe-wise classification to indentify various regions like tree, ground, sky, water etc. in outdoor images.
-#Machine learnig framework used = caffe with other libraries
+### Pixe-wise classification to indentify various regions like tree, ground, sky, water etc. in outdoor images ###
+### Machine learnig framework used = caffe with other libraries ###
 
-#Total classes = 10
+### Total classes = 10 ###
 The mapping is as follows:
 
 {'building': 1,
  'dirt': 2,
  'foliage': 3,
  'grass': 4,
- 'human': 5,
+ 'human': 5, 
  'pole': 6,
  'rails': 7,
  'road': 8,
